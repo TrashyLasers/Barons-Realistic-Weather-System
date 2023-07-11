@@ -17,5 +17,3 @@ A realistic weather system for roblox, it contains all different types of weathe
 * More types of weather
 * Realistic storm formation
   * Such as storms can be mroe intense if the cape or humidity is higher, and vice versa.
- 
-* 
